@@ -1,0 +1,4 @@
+PROGRAM avgage
+CONST
+     MAXSIZE=20;
+TYPE
